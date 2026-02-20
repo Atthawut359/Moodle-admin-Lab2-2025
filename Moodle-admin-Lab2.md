@@ -431,9 +431,8 @@ Reset รหัสผ่านทั้งหมด (ไม่ต้องสร
 **เลือกไฟล์รายวิชา แล้วทำการ Upload**
 
 **บันทึกรูปหน้า Course :** 
-```
- # บันทึกรูปหน้า Course
-```
+
+<img width="1898" height="904" alt="image" src="https://github.com/user-attachments/assets/511ec5aa-8736-46c2-983f-019f9b0fb4b7" />
 
 #### 5. ตรวจสอบผลลัพธ์
 
